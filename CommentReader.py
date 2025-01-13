@@ -10,7 +10,7 @@ import pygame
 
 # setting up the model
 # the way it works is a constant chat session where we keep sending gemini input
-genai.configure(api_key="AIzaSyCQKOS6yp5_HIKYNgMNPgNpiNDaj9OFBzc")
+genai.configure(api_key="")
 
 # Create the model
 generation_config = {
